@@ -1,0 +1,27 @@
+{
+    "name": "christianstpg",
+    "version": "1.0.0",
+    "description": "Unit 10 homework",
+    "main": "app.js",
+    "directories": {
+      "lib": "lib",
+      "test": "test"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/HayesHiller/ChristiansTPG"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/HayesHiller/ChristiansTPG/issues"
+    },
+    "homepage": "https://github.com/HayesHiller/ChristiansTPG",
+    "dependencies": {
+      "inquirer": "^7.0.0",
+      "jest": "^24.9.0"
+    }
+  }
